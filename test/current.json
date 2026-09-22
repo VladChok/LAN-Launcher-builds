@@ -2,6 +2,6 @@
     "formatVersion":  1,
     "stable":  "3",
     "manifest":  "../builds/v3.json",
-    "updatedUtc":  "2026-09-22T08:23:04Z",
+    "updatedUtc":  "2026-09-22T08:34:23Z",
     "note":  "TEST ONLY - not the stable channel"
 }
