@@ -1,0 +1,250 @@
+{
+  "formatVersion": 1,
+  "buildVersion": "10",
+  "minecraftVersion": "26.2",
+  "fabricLoaderVersion": "0.19.5",
+  "loaderLibraries": [
+    {
+      "file": "net/fabricmc/fabric-loader/0.19.5/fabric-loader-0.19.5.jar",
+      "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.19.5/fabric-loader-0.19.5.jar",
+      "sha1": "ff9e65cffca4a67f31523e1807fe0855940fcbfa"
+    },
+    {
+      "file": "net/fabricmc/intermediary/26.2/intermediary-26.2.jar",
+      "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/26.2/intermediary-26.2.jar",
+      "sha1": "29daec33f16264c910f74a926406bae5cf36d81e"
+    },
+    {
+      "file": "net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.jar",
+      "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.jar",
+      "sha1": "5f66cc9f59b8efaa942155a3d5a30599bf6640dd"
+    },
+    {
+      "file": "org/ow2/asm/asm/9.10.1/asm-9.10.1.jar",
+      "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar",
+      "sha1": "ada2141c0cc52ee8f5c48cd5fa4ce0e794f22236"
+    },
+    {
+      "file": "org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar",
+      "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar",
+      "sha1": "8d49f14d51f632cb1d87c88d1ceaf50db0d8af1b"
+    },
+    {
+      "file": "org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar",
+      "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar",
+      "sha1": "4229e4c55fd8e01c23f9fe9884075cc628aacc50"
+    },
+    {
+      "file": "org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar",
+      "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar",
+      "sha1": "e244332a17564c1d1572449399a842de35881be2"
+    },
+    {
+      "file": "org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar",
+      "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar",
+      "sha1": "7bb9d450e8d4cbf9f9e04096c44bbfe7fba80b15"
+    }
+  ],
+  "requiredMods": [
+    {
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "version": "0.161.0+26.2",
+      "file": "fabric-api-0.161.0+26.2.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/ewUK83HI/fabric-api-0.161.0%2B26.2.jar",
+      "sha512": "2502fa5ade78e9a120b3747bc1a9a2167d6671743bea45bf115d3174c94121aeda87c549446d1a604a9c11fb828de17a551e3514ce42f3e93069dd14bdaee55b",
+      "sizeBytes": 2566123
+    },
+    {
+      "id": "fabric-language-kotlin",
+      "name": "Fabric Language Kotlin",
+      "version": "1.14.1+kotlin.2.4.20",
+      "file": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+      "sha512": "91404f87774466ce8604aafea791d8cc97b603bc310dce17c8188f94f7783cca6dc14fc726ce871ca317bfe9033c199d8d858d51284106a00754e952147703b8",
+      "sizeBytes": 8142858
+    },
+    {
+      "id": "placeholder-api",
+      "name": "Placeholder API",
+      "version": "3.1.0-beta.1+26.2",
+      "file": "placeholder-api-3.1.0-beta.1+26.2.jar",
+      "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar",
+      "sha512": "07b6fc802559d54ec6577f6e2788926ef391d755206c2bfb0528280977885cae4bc0c517d8a53eb6f34092015ebe6c41210627d255aa6504662daefa8fb76397",
+      "sizeBytes": 254973
+    },
+    {
+      "id": "yacl",
+      "name": "YetAnotherConfigLib",
+      "version": "3.9.7+26.2-fabric",
+      "file": "yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/DoR7RYgi/yet_another_config_lib_v3-3.9.7%2B26.2-fabric.jar",
+      "sha512": "f36d91a9506ad9addbaaeecaea01d2b0cb5b060f52486b17688746cb597f0f3b23a80f8441f7a73a9cb8cde85af8809fe54825984b56345325359d505a80e7f2",
+      "sizeBytes": 1125271
+    },
+    {
+      "id": "libipn",
+      "name": "libIPN",
+      "version": "fabric-26.2-6.8.3",
+      "file": "libIPN-fabric-26.2-6.8.3.jar",
+      "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/SkvWSBFK/libIPN-fabric-26.2-6.8.3.jar",
+      "sha512": "bd4bd3c3c3c4d98932fa526dc42cc7071bab3717849a3a1de808e6ef1ad3b2f3f24f201854c2485bec3b31dece24d190441d0f7db32e81216cddf005ec474fb6",
+      "sizeBytes": 637800
+    },
+    {
+      "id": "searchables",
+      "name": "Searchables",
+      "version": "1.0.1",
+      "file": "Searchables-fabric-26.2-1.0.1.jar",
+      "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/bvFby61J/Searchables-fabric-26.2-1.0.1.jar",
+      "sha512": "342f6b9ddee7391f0f5c30090dc7b7fe0b9638c86b729d3e989360ccdf5e5a85d729decc3e27efcdaeaad6b4696e9dd8fb48391c803d8324195b6f5194761a70",
+      "sizeBytes": 78982
+    },
+    {
+      "id": "xaeros-minimap",
+      "name": "Xaero's Minimap",
+      "version": "26.5.1",
+      "file": "xaerominimap-fabric-26.2-26.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/VlMbRW2O/xaerominimap-fabric-26.2-26.5.1.jar",
+      "sha512": "ceee38ce9f7dac967b7ff42eb940c00cc50596b0d9da8401a59b55be904fee703d91a72ea00d0e235f33c7fe5d75f7804ac055de92d34b0873cbc1043a101c0d",
+      "sizeBytes": 2221890
+    },
+    {
+      "id": "modmenu",
+      "name": "Mod Menu",
+      "version": "20.0.2",
+      "file": "modmenu-20.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/WdLLrOzD/modmenu-20.0.2.jar",
+      "sha512": "9baebd229ff5a0a377a0269f2a8783dd9bde682b0773d9ce380dedf61b214676f1d13b9904e84403afb418c13d3ee23c3120e09032c53cb4c762091af1a4b0fb",
+      "sizeBytes": 616610
+    },
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "version": "mc26.2-0.9.2-fabric",
+      "file": "sodium-fabric-0.9.2+mc26.2.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar",
+      "sha512": "9b7a7aade8824543ce2a804fddfd04e37f57d1f91c00574e7dc87e554eb1835d888313ee6f715a7599bd729840cf01fd74e02aeae87b4e5a3c10c34a016e407c",
+      "sizeBytes": 1885572
+    },
+    {
+      "id": "dynamic-fps",
+      "name": "Dynamic FPS",
+      "version": "3.11.9",
+      "file": "dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pC2JjFw1/dynamic-fps-3.11.9%2Bminecraft-26.2.0-fabric.jar",
+      "sha512": "79b13548d7e9de9abfa23e062724a885e5341f371c500d6570056ecea7db00c2f7ace5a7288179ad8baec575b4aa992b91dccbc940c584cb5cddf0bc7aeb892f",
+      "sizeBytes": 188740
+    },
+    {
+      "id": "mouse-tweaks",
+      "name": "Mouse Tweaks",
+      "version": "26.2-2.31-fabric",
+      "file": "MouseTweaks-fabric-mc26.2-2.31.jar",
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/jOiTBIaB/MouseTweaks-fabric-mc26.2-2.31.jar",
+      "sha512": "bc77723465dc4aef7a3a8fa2fea3641df1e6ba7cc8a2d86cd2659ef65ca661f6a763d3997fdaed1f8ff6c78a4c6061f8074160ca3162a29021735779a6c55e46",
+      "sizeBytes": 75872
+    },
+    {
+      "id": "appleskin",
+      "name": "AppleSkin",
+      "version": "3.0.10+mc26.2",
+      "file": "appleskin-fabric-mc26.2-3.0.10.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uo5bAN1Y/appleskin-fabric-mc26.2-3.0.10.jar",
+      "sha512": "ddf31d8fe239f66760632606221a9ea55d31907a9f7f8667331929cad348457ec2199cb90d410ee1a06e36bafc01a3bf152a06fd3c9b9e46f50841240875832b",
+      "sizeBytes": 181627
+    },
+    {
+      "id": "shulkerboxtooltip",
+      "name": "Shulker Box Tooltip",
+      "version": "5.4.1+26.2-fabric",
+      "file": "shulkerboxtooltip-fabric-5.4.1+26.2.jar",
+      "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/fbcCAoFL/shulkerboxtooltip-fabric-5.4.1%2B26.2.jar",
+      "sha512": "0375548213be97fb7143408a5b18ca34df1f26f10eaeba4c4c0b948eb3b1870b8b086c67b3a766b7be957e17bc6cafa9d97ad0d41ef167d31bfc9330015425e5",
+      "sizeBytes": 422638
+    },
+    {
+      "id": "chat-heads",
+      "name": "Chat Heads",
+      "version": "1.2.8",
+      "file": "chat_heads-1.2.8-fabric-26.1.jar",
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/lyZOZ4qX/chat_heads-1.2.8-fabric-26.1.jar",
+      "sha512": "b8f6a7fde96e2a36bd339e950113e9ced3190461cf7a940c67cf8817c647e029675acb31f5c1ecd2f6be76f11a32d78f132dbde7ea1d8aa7512075b60c1797f8",
+      "sizeBytes": 94568
+    },
+    {
+      "id": "inventory-profiles-next",
+      "name": "Inventory Profiles Next",
+      "version": "fabric-26.2-2.3.7",
+      "file": "InventoryProfilesNext-fabric-26.2-2.3.7.jar",
+      "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/SnUA305X/InventoryProfilesNext-fabric-26.2-2.3.7.jar",
+      "sha512": "dafd5af4cbf50708ba58773dd3c0457afbb4f5b0367b95604627092ed3a1900b644502ddb84dc264c0d4645b15cfa3d81e1dcc72ffa3c32063028ec7eb517a16",
+      "sizeBytes": 1456192
+    },
+    {
+      "id": "zoomify",
+      "name": "Zoomify",
+      "version": "2.16.1+26.2",
+      "file": "zoomify-2.16.1+26.2.jar",
+      "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/QWTzJNJY/zoomify-2.16.1%2B26.2.jar",
+      "sha512": "0212fc1ded72d027df0d346546f45903b9c6cc37c521379724cf2d28eb8a9867a52f26391e690dcadeedcd32899d22b00b7405b2e6bbefd949fb9df383e3c5b4",
+      "sizeBytes": 562176
+    },
+    {
+      "id": "jade",
+      "name": "Jade",
+      "version": "26.2.11+fabric",
+      "file": "Jade-mc26.2-Fabric-26.2.11.jar",
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/ue8CO97w/Jade-mc26.2-Fabric-26.2.11.jar",
+      "sha512": "730e07dd5cbbf850ba0e7fd4852b528867d3e2fc2de63b156c89eee9ee6dd92d882b744f97fe724f2aa0afc5b468577486d9558f80d3e46cc5fa133ba241b9c9",
+      "sizeBytes": 1043764
+    },
+    {
+      "id": "controlling",
+      "name": "Controlling",
+      "version": "26.2.4",
+      "file": "Controlling-fabric-26.2-26.2.4.jar",
+      "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/sZHXONgm/Controlling-fabric-26.2-26.2.4.jar",
+      "sha512": "27147edf57915d88db8d2cbda8a54e97f4dd36bb7379e191d6fec67fe2c42f8f1f96d75a5afc8b84c9177661089ec28f0e89b519321e5d2fcf512a3df27e22c4",
+      "sizeBytes": 86209
+    },
+    {
+      "id": "lan-client",
+      "name": "LAN Client (дом, спавн, запросы телепорта, GM-панель, мясной блок)",
+      "version": "0.7.0",
+      "file": "lan-client-0.7.0.jar",
+      "url": "https://github.com/VladChok/LAN-Launcher-builds/releases/download/lan-client-0.7.0/lan-client-0.7.0.jar",
+      "sha512": "b75511228449e6eb301e3f65fc40ba972a6f3e35206f2b8a29b3b2ef6be6ab4031b1b4e7eaa1d6ec985f23305f52b20e6d939fdad49e24aba532a6bcd077d709",
+      "sizeBytes": 115783,
+      "supersedes": [
+        "lan-client-*.jar"
+      ]
+    },
+    {
+      "id": "axiom",
+      "name": "Axiom (редактор мира; доступ выдаётся через F8-панель)",
+      "version": "5.5.0",
+      "file": "Axiom-5.5.0-for-MC26.2.jar",
+      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/QO99kC52/Axiom-5.5.0-for-MC26.2.jar",
+      "sha512": "fc6681cfe613a1d97346dacbe71b8a6df770cb86fc0424ee9f4abcb4eedc23a3754d7def1d36995f782e167bb29d15a31a99a35c662fc14278d020eba272b530",
+      "sizeBytes": 46887814
+    },
+    {
+      "id": "guns-plus-plus",
+      "name": "Guns++ (модели и звуки оружия; сам датапак - на сервере)",
+      "version": "5.9.5",
+      "file": "guns++-5.9.5.jar",
+      "url": "https://cdn.modrinth.com/data/kdch0Jxf/versions/ojgoWSyN/guns%2B%2B-5.9.5.jar",
+      "sha512": "c7646fc0c0ff0ba9ca434697e584dc3ed90d8f2c698bd4bb5db6341ce47a4bf7eb2365299e2f3041be24cbd82602a5c000f50486cbacc7780d1c8c5568230ff7",
+      "sizeBytes": 25565135
+    }
+  ],
+  "optionalMods": [],
+  "removedFiles": [
+    "lan-client-0.1.0.jar",
+    "lan-client-0.2.0.jar",
+    "lan-client-0.2.1.jar",
+    "lan-client-0.2.2.jar",
+    "lan-client-0.3.0.jar"
+  ]
+}
