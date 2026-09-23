@@ -1,6 +1,6 @@
 {
     "formatVersion":  1,
-    "stable":  "8",
-    "manifest":  "builds/v8.json",
-    "updatedUtc":  "2026-09-23T17:39:14Z"
+    "stable":  "9",
+    "manifest":  "builds/v9.json",
+    "updatedUtc":  "2026-09-23T18:07:39Z"
 }
