@@ -1,7 +1,7 @@
 {
     "formatVersion":  1,
-    "stable":  "10",
-    "manifest":  "../builds/v10.json",
-    "updatedUtc":  "2026-09-23T18:42:31Z",
+    "stable":  "11",
+    "manifest":  "../builds/v11.json",
+    "updatedUtc":  "2026-09-23T18:50:46Z",
     "note":  "TEST ONLY - not the stable channel"
 }
